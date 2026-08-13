@@ -2,6 +2,6 @@
 
 # Hello World!
 
-<sub>*Come back later for awesome projects.*</sub>
+<sub>*You really have nothing to do.*</sub>
 
 </div>

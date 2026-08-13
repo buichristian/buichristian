@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🙈 Nothing here yet, I'm shy!
+# Hello World!
 
 <sub>*Come back later for awesome projects.*</sub>
 
